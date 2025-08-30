@@ -12,15 +12,8 @@ Generated directly from the **official reference implementations** of:
 ## 📌 What’s inside?
 - ✅ Up-to-date KAT files (`.req`, `.rsp`)  
 - ✅ Straight from upstream reference code (no 3rd party mods)  
-- ✅ Useful for **verification, benchmarking, and research**  
-
----
-
-## 📂 Repository Structure
-/dilithium/ → KAT for Dilithium
-/kyber/ → KAT for Kyber
-/sphincs+/ → KAT for SPHINCS+
-
+- ✅ Useful for **verification, benchmarking, and research**
+  
 ---
 
 ## ⚖️ License
